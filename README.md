@@ -1,6 +1,6 @@
 karma-jasmine-seed
 ==================
 
-Basic project with 1 JavaScript file and 1 Spec file.
+Out the box setup for Karma.js and Jasmine.js
 
-Basic setup for jasmine.js and karma.
+Comes with one test file and one production file.
